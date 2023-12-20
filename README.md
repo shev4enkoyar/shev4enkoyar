@@ -9,7 +9,7 @@ I love .NET!
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [schev4enko3@gmail.com](mailto:schev4enko3@gmail.com)
 * 🚀  I'm currently working on [RST-Invent](http://rst-invent.ru/)
-* 🧠  I'm learning Rect.ts
+* 🧠  I'm learning React.ts
 * ⚡  Ready to move to any other country :)
 
 ### Skills
